@@ -1,0 +1,20 @@
+Some important commands go here
+
+$rustc main.rs
+$cargo --version
+
+Create a new project with Cargo
+$cargo new hello_cargo
+
+Initialize Git repository
+$cargo new --vcs=git
+
+Building and Running a Cargo Project
+$cargo build
+$cargo run
+$cargo check
+
+Building for Release
+$cargo build --release
+
+Install the stable version of Rust ysing rustup
